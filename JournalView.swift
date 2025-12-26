@@ -1,4 +1,4 @@
-import SwiftUI
+import SwiftUII
 
 struct JournalEntry: Identifiable, Codable {
     let id: UUID
